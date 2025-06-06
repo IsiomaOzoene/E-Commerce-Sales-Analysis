@@ -62,6 +62,7 @@ Creating a Database and Tables for Datasets
 ![image](https://github.com/user-attachments/assets/dc3ad94c-ee53-41f8-81a7-f4db219860f0)
 
 Tasks / Data Exploration
+
 How did the total discount amount perform for each month in 2021 and 2022?
 ![image](https://github.com/user-attachments/assets/6c3032fe-79cd-43fd-8018-d8db62ead3c4)
  
